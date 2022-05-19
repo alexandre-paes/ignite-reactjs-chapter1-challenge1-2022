@@ -1,0 +1,7 @@
+# ignite-reactjs-chapter1-challenge1-2022
+Desafio: Conceitos do React Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no ReactJS. Essa será uma aplicação onde o seu principal objetivo é uma pequena aplicação de atividades a fazer, para treinar um pouco mais sobre manipulação do estado no React.
+
+// Initialize the repository creating the package.json
+$ yarn init -y (or npm instead of yarn if you do prefer)
+
+// 
